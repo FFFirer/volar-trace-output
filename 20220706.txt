@@ -1,0 +1,539 @@
+[Trace - 15:43:16] Sending request 'initialize - (0)'.
+[Trace - 15:43:19] Received response 'initialize - (0)' in 2347ms.
+[Trace - 15:43:19] Sending notification 'initialized'.
+[Trace - 15:43:19] Sending notification 'textDocument/didOpen'.
+[Trace - 15:43:19] Sending request 'volar/getTagNameCaseServer - (1)'.
+[Trace - 15:43:19] Sending request 'volar/tsconfig - (2)'.
+[Trace - 15:43:19] Sending request 'volar/getTagNameCaseServer - (3)'.
+[Trace - 15:43:19] Received request 'client/registerCapability - (0)'.
+[Trace - 15:43:19] Sending response 'client/registerCapability - (0)'. Processing request took 0ms
+[Trace - 15:43:19] Sending request 'textDocument/documentLink - (4)'.
+[Trace - 15:43:19] Sending request 'textDocument/codeAction - (5)'.
+[Trace - 15:43:19] Sending request 'textDocument/codeLens - (6)'.
+[Trace - 15:43:19] Sending request 'textDocument/semanticTokens/range - (7)'.
+[Trace - 15:43:19] Sending request 'textDocument/inlayHint - (8)'.
+[Trace - 15:43:22] Received response 'volar/tsconfig - (2)' in 3855ms.
+[Trace - 15:43:22] Sending notification '$/cancelRequest'.
+[Trace - 15:43:23] Sending request 'textDocument/inlayHint - (9)'.
+[Trace - 15:43:23] Sending request 'textDocument/semanticTokens/range - (10)'.
+[Trace - 15:43:23] Sending request 'textDocument/inlayHint - (11)'.
+[Trace - 15:43:23] Sending notification '$/cancelRequest'.
+[Trace - 15:43:25] Sending notification '$/cancelRequest'.
+[Trace - 15:43:25] Sending request 'textDocument/codeLens - (12)'.
+[Trace - 15:43:25] Sending notification '$/cancelRequest'.
+[Trace - 15:43:25] Sending request 'textDocument/semanticTokens/range - (13)'.
+[Trace - 15:43:25] Sending request 'textDocument/inlayHint - (14)'.
+[Trace - 15:43:25] Sending request 'textDocument/codeAction - (15)'.
+[Trace - 15:43:35] Sending notification '$/setTrace'.
+[Trace - 15:43:35] Sending notification '$/setTrace'.
+[Trace - 15:43:35] Sending notification 'workspace/didChangeConfiguration'.
+[Trace - 15:43:35] Sending notification 'workspace/didChangeConfiguration'.
+[Trace - 15:43:35] Sending notification '$/cancelRequest'.
+[Trace - 15:43:35] Sending request 'textDocument/semanticTokens/range - (16)'.
+[Trace - 15:43:35] Sending request 'textDocument/inlayHint - (17)'.
+[Trace - 15:43:35] Sending request 'textDocument/semanticTokens/range - (18)'.
+[Trace - 15:43:35] Sending request 'textDocument/inlayHint - (19)'.
+[Trace - 15:43:36] Sending request 'textDocument/hover - (20)'.
+[Trace - 15:43:36] Sending request 'textDocument/hover - (21)'.
+[Trace - 15:43:36] Sending notification '$/cancelRequest'.
+[Trace - 15:43:36] Sending notification '$/cancelRequest'.
+[Trace - 15:43:37] Sending notification '$/cancelRequest'.
+[Trace - 15:43:37] Sending request 'textDocument/codeLens - (22)'.
+[Trace - 15:43:37] Sending request 'textDocument/semanticTokens/range - (23)'.
+[Trace - 15:43:37] Sending request 'textDocument/inlayHint - (24)'.
+[Trace - 15:43:37] Sending request 'textDocument/hover - (25)'.
+[Trace - 15:43:37] Sending request 'textDocument/hover - (26)'.
+[Trace - 15:43:42] Received request 'workspace/configuration - (1)'.
+[Trace - 15:43:42] Sending response 'workspace/configuration - (1)'. Processing request took 1ms
+[Trace - 15:43:42] Received request 'workspace/configuration - (2)'.
+[Trace - 15:43:42] Sending response 'workspace/configuration - (2)'. Processing request took 0ms
+[Trace - 15:43:42] Received response 'volar/getTagNameCaseServer - (3)' in 23801ms.
+[Trace - 15:43:42] Received request 'workspace/configuration - (3)'.
+[Trace - 15:43:42] Sending response 'workspace/configuration - (3)'. Processing request took 0ms
+[Trace - 15:43:42] Received request 'workspace/configuration - (4)'.
+[Trace - 15:43:42] Sending response 'workspace/configuration - (4)'. Processing request took 0ms
+[Trace - 15:43:42] Received response 'textDocument/documentLink - (4)' in 23675ms.
+[Trace - 15:43:42] Received request 'workspace/configuration - (5)'.
+[Trace - 15:43:42] Sending response 'workspace/configuration - (5)'. Processing request took 0ms
+[Trace - 15:43:42] Received request 'workspace/configuration - (6)'.
+[Trace - 15:43:42] Sending response 'workspace/configuration - (6)'. Processing request took 1ms
+[Trace - 15:43:42] Received request 'workspace/configuration - (7)'.
+[Trace - 15:43:42] Sending response 'workspace/configuration - (7)'. Processing request took 0ms
+[Trace - 15:43:42] Sending notification '$/cancelRequest'.
+[Trace - 15:43:42] Received response 'textDocument/codeAction - (5)' in 23723ms.
+[Trace - 15:43:42] Received request 'workspace/configuration - (8)'.
+[Trace - 15:43:42] Sending response 'workspace/configuration - (8)'. Processing request took 0ms
+[Trace - 15:43:42] Received request 'workspace/configuration - (9)'.
+[Trace - 15:43:42] Sending response 'workspace/configuration - (9)'. Processing request took 0ms
+[Trace - 15:43:42] Received request 'workspace/configuration - (10)'.
+[Trace - 15:43:42] Sending response 'workspace/configuration - (10)'. Processing request took 0ms
+[Trace - 15:43:42] Received response 'textDocument/codeLens - (6)' in 23366ms.
+[Trace - 15:43:43] Received response 'textDocument/semanticTokens/range - (7)' in 23348ms.
+[Trace - 15:43:43] Received request 'workspace/configuration - (11)'.
+[Trace - 15:43:43] Sending response 'workspace/configuration - (11)'. Processing request took 1ms
+[Trace - 15:43:43] Received response 'textDocument/inlayHint - (8)' in 23117ms.
+[Trace - 15:43:43] Received response 'volar/getTagNameCaseServer - (1)' in 23995ms.
+[Trace - 15:43:43] Received request 'vue/docVersion - (12)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (12)'. Processing request took 0ms
+[Trace - 15:43:43] Received response 'textDocument/inlayHint - (9)' in 20045ms.
+[Trace - 15:43:43] Received response 'textDocument/semanticTokens/range - (10)' in 20077ms.
+[Trace - 15:43:43] Received response 'textDocument/inlayHint - (11)' in 20080ms.
+[Trace - 15:43:43] Received response 'textDocument/codeLens - (12)' in 17373ms.
+[Trace - 15:43:43] Received response 'textDocument/semanticTokens/range - (13)' in 17142ms.
+[Trace - 15:43:43] Received response 'textDocument/inlayHint - (14)' in 17146ms.
+[Trace - 15:43:43] Received response 'textDocument/codeAction - (15)' in 17150ms.
+[Trace - 15:43:43] Received response 'textDocument/semanticTokens/range - (16)' in 7848ms.
+[Trace - 15:43:43] Received response 'textDocument/inlayHint - (17)' in 7852ms.
+[Trace - 15:43:43] Received response 'textDocument/semanticTokens/range - (18)' in 7407ms.
+[Trace - 15:43:43] Received response 'textDocument/inlayHint - (19)' in 7292ms.
+[Trace - 15:43:43] Received request 'workspace/configuration - (13)'.
+[Trace - 15:43:43] Sending response 'workspace/configuration - (13)'. Processing request took 1ms
+[Trace - 15:43:43] Received request 'vue/docVersion - (14)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (14)'. Processing request took 0ms
+[Trace - 15:43:43] Received response 'textDocument/hover - (20)' in 6357ms.
+[Trace - 15:43:43] Received response 'textDocument/hover - (21)' in 6345ms.
+[Trace - 15:43:43] Received response 'textDocument/codeLens - (22)' in 5569ms.
+[Trace - 15:43:43] Received response 'textDocument/semanticTokens/range - (23)' in 5583ms.
+[Trace - 15:43:43] Received response 'textDocument/inlayHint - (24)' in 5585ms.
+[Trace - 15:43:43] Received response 'textDocument/hover - (25)' in 5302ms.
+[Trace - 15:43:43] Received response 'textDocument/hover - (26)' in 5302ms.
+[Trace - 15:43:43] Received request 'vue/docVersion - (15)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (15)'. Processing request took 0ms
+[Trace - 15:43:43] Received request 'workspace/configuration - (16)'.
+[Trace - 15:43:43] Sending response 'workspace/configuration - (16)'. Processing request took 0ms
+[Trace - 15:43:43] Received request 'vue/docVersion - (17)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (17)'. Processing request took 0ms
+[Trace - 15:43:43] Received request 'vue/docVersion - (18)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (18)'. Processing request took 0ms
+[Trace - 15:43:43] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:43:43] Received request 'vue/docVersion - (19)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (19)'. Processing request took 0ms
+[Trace - 15:43:43] Received request 'vue/docVersion - (20)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (20)'. Processing request took 0ms
+[Trace - 15:43:43] Received request 'vue/docVersion - (21)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (21)'. Processing request took 0ms
+[Trace - 15:43:43] Received request 'vue/docVersion - (22)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (22)'. Processing request took 0ms
+[Trace - 15:43:43] Received request 'vue/docVersion - (23)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (23)'. Processing request took 0ms
+[Trace - 15:43:43] Received request 'vue/docVersion - (24)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (24)'. Processing request took 0ms
+[Trace - 15:43:43] Sending request 'textDocument/hover - (27)'.
+[Trace - 15:43:43] Sending request 'textDocument/hover - (28)'.
+[Trace - 15:43:43] Received request 'vue/docVersion - (25)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (25)'. Processing request took 0ms
+[Trace - 15:43:43] Received response 'textDocument/hover - (27)' in 60ms.
+[Trace - 15:43:43] Received response 'textDocument/hover - (28)' in 60ms.
+[Trace - 15:43:43] Received request 'vue/docVersion - (26)'.
+[Trace - 15:43:43] Sending response 'vue/docVersion - (26)'. Processing request took 0ms
+[Trace - 15:43:44] Received request 'vue/docVersion - (27)'.
+[Trace - 15:43:44] Sending response 'vue/docVersion - (27)'. Processing request took 0ms
+[Trace - 15:43:44] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:43:44] Received request 'vue/docVersion - (28)'.
+[Trace - 15:43:44] Sending response 'vue/docVersion - (28)'. Processing request took 0ms
+[Trace - 15:43:44] Received request 'vue/docVersion - (29)'.
+[Trace - 15:43:44] Sending response 'vue/docVersion - (29)'. Processing request took 0ms
+[Trace - 15:43:44] Received request 'vue/docVersion - (30)'.
+[Trace - 15:43:44] Sending response 'vue/docVersion - (30)'. Processing request took 0ms
+[Trace - 15:43:44] Received request 'vue/docVersion - (31)'.
+[Trace - 15:43:44] Sending response 'vue/docVersion - (31)'. Processing request took 0ms
+[Trace - 15:43:44] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:43:44] Received request 'vue/docVersion - (32)'.
+[Trace - 15:43:44] Sending response 'vue/docVersion - (32)'. Processing request took 0ms
+[Trace - 15:43:44] Received request 'vue/docVersion - (33)'.
+[Trace - 15:43:44] Sending response 'vue/docVersion - (33)'. Processing request took 0ms
+[Trace - 15:43:44] Received request 'vue/docVersion - (34)'.
+[Trace - 15:43:44] Sending response 'vue/docVersion - (34)'. Processing request took 0ms
+[Trace - 15:43:44] Received request 'vue/docVersion - (35)'.
+[Trace - 15:43:44] Sending response 'vue/docVersion - (35)'. Processing request took 0ms
+[Trace - 15:43:44] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:43:44] Sending request 'textDocument/hover - (29)'.
+[Trace - 15:43:44] Sending request 'textDocument/hover - (30)'.
+[Trace - 15:43:44] Received response 'textDocument/hover - (29)' in 4ms.
+[Trace - 15:43:44] Received response 'textDocument/hover - (30)' in 3ms.
+[Trace - 15:43:44] Sending request 'textDocument/codeAction - (31)'.
+[Trace - 15:43:44] Received response 'textDocument/codeAction - (31)' in 3ms.
+[Trace - 15:43:50] Sending request 'volar/tsconfig - (32)'.
+[Trace - 15:43:50] Received response 'volar/tsconfig - (32)' in 2ms.
+[Trace - 15:43:50] Sending request 'textDocument/hover - (33)'.
+[Trace - 15:43:50] Sending request 'textDocument/hover - (34)'.
+[Trace - 15:43:50] Received response 'textDocument/hover - (33)' in 4ms.
+[Trace - 15:43:50] Received response 'textDocument/hover - (34)' in 8ms.
+[Trace - 15:43:56] Sending request 'textDocument/codeLens - (35)'.
+[Trace - 15:43:56] Received response 'textDocument/codeLens - (35)' in 3ms.
+[Trace - 15:43:56] Sending request 'textDocument/hover - (36)'.
+[Trace - 15:43:56] Received response 'textDocument/hover - (36)' in 3ms.
+[Trace - 15:43:56] Sending request 'textDocument/hover - (37)'.
+[Trace - 15:43:56] Received response 'textDocument/hover - (37)' in 3ms.
+[Trace - 15:43:59] Sending request 'textDocument/hover - (38)'.
+[Trace - 15:43:59] Received response 'textDocument/hover - (38)' in 3ms.
+[Trace - 15:43:59] Sending request 'textDocument/hover - (39)'.
+[Trace - 15:43:59] Received response 'textDocument/hover - (39)' in 3ms.
+[Trace - 15:44:00] Sending request 'textDocument/hover - (40)'.
+[Trace - 15:44:00] Received response 'textDocument/hover - (40)' in 3ms.
+[Trace - 15:44:00] Sending request 'textDocument/hover - (41)'.
+[Trace - 15:44:00] Received response 'textDocument/hover - (41)' in 2ms.
+[Trace - 15:44:01] Sending request 'textDocument/hover - (42)'.
+[Trace - 15:44:01] Sending request 'textDocument/hover - (43)'.
+[Trace - 15:44:01] Received response 'textDocument/hover - (42)' in 3ms.
+[Trace - 15:44:01] Received response 'textDocument/hover - (43)' in 2ms.
+[Trace - 15:44:01] Sending request 'textDocument/hover - (44)'.
+[Trace - 15:44:01] Sending request 'textDocument/hover - (45)'.
+[Trace - 15:44:01] Received response 'textDocument/hover - (44)' in 13ms.
+[Trace - 15:44:01] Received response 'textDocument/hover - (45)' in 17ms.
+[Trace - 15:44:02] Sending request 'textDocument/hover - (46)'.
+[Trace - 15:44:02] Received response 'textDocument/hover - (46)' in 3ms.
+[Trace - 15:44:02] Sending request 'textDocument/hover - (47)'.
+[Trace - 15:44:02] Received response 'textDocument/hover - (47)' in 3ms.
+[Trace - 15:44:02] Sending request 'textDocument/hover - (48)'.
+[Trace - 15:44:02] Received response 'textDocument/hover - (48)' in 16ms.
+[Trace - 15:44:02] Sending request 'textDocument/hover - (49)'.
+[Trace - 15:44:02] Received response 'textDocument/hover - (49)' in 3ms.
+[Trace - 15:44:03] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:03] Received request 'vue/docVersion - (36)'.
+[Trace - 15:44:03] Sending response 'vue/docVersion - (36)'. Processing request took 0ms
+[Trace - 15:44:03] Received request 'vue/docVersion - (37)'.
+[Trace - 15:44:03] Sending response 'vue/docVersion - (37)'. Processing request took 0ms
+[Trace - 15:44:03] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:04] Sending request 'vue/autoInsert - (50)'.
+[Trace - 15:44:04] Sending request 'vue/autoInsert - (51)'.
+[Trace - 15:44:04] Sending request 'textDocument/semanticTokens/range - (52)'.
+[Trace - 15:44:04] Sending notification '$/cancelRequest'.
+[Trace - 15:44:04] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:04] Sending request 'textDocument/completion - (53)'.
+[Trace - 15:44:04] Sending request 'vue/autoInsert - (54)'.
+[Trace - 15:44:04] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:04] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:04] Sending request 'vue/autoInsert - (55)'.
+[Trace - 15:44:04] Sending request 'vue/autoInsert - (56)'.
+[Trace - 15:44:05] Sending request 'textDocument/codeAction - (57)'.
+[Trace - 15:44:05] Sending request 'textDocument/semanticTokens/range - (58)'.
+[Trace - 15:44:06] Sending request 'textDocument/inlayHint - (59)'.
+[Trace - 15:44:07] Sending request 'textDocument/codeLens - (60)'.
+[Trace - 15:44:08] Sending request 'textDocument/documentLink - (61)'.
+[Trace - 15:44:10] Received request 'vue/docVersion - (38)'.
+[Trace - 15:44:10] Sending response 'vue/docVersion - (38)'. Processing request took 0ms
+[Trace - 15:44:12] Received response 'vue/autoInsert - (50)' in 7876ms.
+[Trace - 15:44:12] Received request 'vue/docVersion - (39)'.
+[Trace - 15:44:12] Sending response 'vue/docVersion - (39)'. Processing request took 0ms
+[Trace - 15:44:12] Received response 'vue/autoInsert - (51)' in 7881ms.
+[Trace - 15:44:12] Received response 'textDocument/semanticTokens/range - (52)' in 7751ms.
+[Trace - 15:44:12] Sending notification '$/cancelRequest'.
+[Trace - 15:44:12] Sending request 'textDocument/codeLens - (62)'.
+[Trace - 15:44:14] Sending notification 'textDocument/didSave'.
+[Trace - 15:44:15] Sending notification '$/cancelRequest'.
+[Trace - 15:44:15] Sending notification '$/cancelRequest'.
+[Trace - 15:44:15] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:15] Sending notification 'workspace/didChangeWatchedFiles'.
+[Trace - 15:44:15] Sending request 'vue/autoInsert - (63)'.
+[Trace - 15:44:15] Sending request 'textDocument/codeAction - (64)'.
+[Trace - 15:44:15] Sending request 'textDocument/semanticTokens/range - (65)'.
+[Trace - 15:44:16] Sending notification '$/cancelRequest'.
+[Trace - 15:44:16] Sending request 'textDocument/inlayHint - (66)'.
+[Trace - 15:44:18] Sending notification '$/cancelRequest'.
+[Trace - 15:44:18] Sending request 'textDocument/codeLens - (67)'.
+[Trace - 15:44:19] Sending request 'textDocument/documentLink - (68)'.
+[Trace - 15:44:21] Received response 'textDocument/completion - (53)' in 16829ms.
+[Trace - 15:44:21] Received request 'vue/docVersion - (40)'.
+[Trace - 15:44:21] Sending response 'vue/docVersion - (40)'. Processing request took 0ms
+[Trace - 15:44:21] Received request 'workspace/configuration - (41)'.
+[Trace - 15:44:21] Sending response 'workspace/configuration - (41)'. Processing request took 0ms
+[Trace - 15:44:21] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:21] Sending request 'completionItem/resolve - (69)'.
+[Trace - 15:44:21] Sending notification '$/cancelRequest'.
+[Trace - 15:44:21] Sending request 'textDocument/codeAction - (70)'.
+[Trace - 15:44:22] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:22] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:22] Sending notification '$/cancelRequest'.
+[Trace - 15:44:22] Sending request 'textDocument/codeAction - (71)'.
+[Trace - 15:44:23] Sending notification '$/cancelRequest'.
+[Trace - 15:44:23] Sending request 'textDocument/codeLens - (72)'.
+[Trace - 15:44:23] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:23] Received response 'vue/autoInsert - (54)' in 18992ms.
+[Trace - 15:44:23] Received response 'vue/autoInsert - (55)' in 18823ms.
+[Trace - 15:44:23] Received response 'vue/autoInsert - (56)' in 18709ms.
+[Trace - 15:44:23] Received response 'textDocument/codeAction - (57)' in 18826ms.
+[Trace - 15:44:23] Received response 'textDocument/semanticTokens/range - (58)' in 18563ms.
+[Trace - 15:44:23] Received response 'textDocument/inlayHint - (59)' in 17823ms.
+[Trace - 15:44:23] Received response 'textDocument/codeLens - (60)' in 16127ms.
+[Trace - 15:44:23] Received response 'textDocument/documentLink - (61)' in 15084ms.
+[Trace - 15:44:23] Received response 'textDocument/codeLens - (62)' in 11026ms.
+[Trace - 15:44:23] Received response 'vue/autoInsert - (63)' in 8697ms.
+[Trace - 15:44:23] Sending notification '$/cancelRequest'.
+[Trace - 15:44:23] Sending request 'textDocument/codeAction - (73)'.
+[Trace - 15:44:23] Received response 'textDocument/codeAction - (64)' in 8587ms.
+[Trace - 15:44:23] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:23] Received response 'textDocument/semanticTokens/range - (65)' in 8390ms.
+[Trace - 15:44:23] Received response 'textDocument/inlayHint - (66)' in 7637ms.
+[Trace - 15:44:23] Received response 'textDocument/codeLens - (67)' in 5950ms.
+[Trace - 15:44:23] Received response 'textDocument/documentLink - (68)' in 4908ms.
+[Trace - 15:44:23] Received request 'vue/docVersion - (42)'.
+[Trace - 15:44:23] Sending response 'vue/docVersion - (42)'. Processing request took 0ms
+[Trace - 15:44:23] Received request 'vue/activeSelection - (43)'.
+[Trace - 15:44:23] Sending response 'vue/activeSelection - (43)'. Processing request took 0ms
+[Trace - 15:44:23] Received response 'textDocument/codeAction - (70)' in 2271ms.
+[Trace - 15:44:23] Received response 'textDocument/codeAction - (71)' in 1230ms.
+[Trace - 15:44:23] Received response 'textDocument/codeLens - (72)' in 858ms.
+[Trace - 15:44:24] Received response 'textDocument/codeAction - (73)' in 89ms.
+[Trace - 15:44:24] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:24] Received request 'vue/docVersion - (44)'.
+[Trace - 15:44:24] Sending response 'vue/docVersion - (44)'. Processing request took 0ms
+[Trace - 15:44:24] Received response 'completionItem/resolve - (69)' in 2380ms.
+[Trace - 15:44:24] Received request 'vue/docVersion - (45)'.
+[Trace - 15:44:24] Sending response 'vue/docVersion - (45)'. Processing request took 0ms
+[Trace - 15:44:24] Received request 'vue/docVersion - (46)'.
+[Trace - 15:44:24] Sending response 'vue/docVersion - (46)'. Processing request took 0ms
+[Trace - 15:44:24] Sending request 'textDocument/codeAction - (74)'.
+[Trace - 15:44:24] Received request 'vue/docVersion - (47)'.
+[Trace - 15:44:24] Sending response 'vue/docVersion - (47)'. Processing request took 0ms
+[Trace - 15:44:24] Received response 'textDocument/codeAction - (74)' in 100ms.
+[Trace - 15:44:24] Received request 'vue/docVersion - (48)'.
+[Trace - 15:44:24] Sending response 'vue/docVersion - (48)'. Processing request took 0ms
+[Trace - 15:44:24] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:24] Received request 'vue/docVersion - (49)'.
+[Trace - 15:44:24] Sending response 'vue/docVersion - (49)'. Processing request took 0ms
+[Trace - 15:44:25] Received request 'vue/docVersion - (50)'.
+[Trace - 15:44:25] Sending response 'vue/docVersion - (50)'. Processing request took 0ms
+[Trace - 15:44:25] Received request 'vue/docVersion - (51)'.
+[Trace - 15:44:25] Sending response 'vue/docVersion - (51)'. Processing request took 0ms
+[Trace - 15:44:25] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:25] Received request 'vue/docVersion - (52)'.
+[Trace - 15:44:25] Sending response 'vue/docVersion - (52)'. Processing request took 0ms
+[Trace - 15:44:25] Received request 'vue/docVersion - (53)'.
+[Trace - 15:44:25] Sending response 'vue/docVersion - (53)'. Processing request took 0ms
+[Trace - 15:44:25] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:25] Sending notification 'textDocument/didSave'.
+[Trace - 15:44:25] Received request 'workspace/semanticTokens/refresh - (54)'.
+[Trace - 15:44:25] Sending response 'workspace/semanticTokens/refresh - (54)'. Processing request took 0ms
+[Trace - 15:44:25] Received request 'workspace/semanticTokens/refresh - (55)'.
+[Trace - 15:44:25] Sending response 'workspace/semanticTokens/refresh - (55)'. Processing request took 0ms
+[Trace - 15:44:25] Sending request 'textDocument/codeAction - (75)'.
+[Trace - 15:44:25] Received response 'textDocument/codeAction - (75)' in 94ms.
+[Trace - 15:44:25] Sending notification 'workspace/didChangeWatchedFiles'.
+[Trace - 15:44:27] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:27] Sending request 'textDocument/codeLens - (76)'.
+[Trace - 15:44:27] Received response 'textDocument/codeLens - (76)' in 3ms.
+[Trace - 15:44:27] Sending request 'textDocument/codeAction - (77)'.
+[Trace - 15:44:27] Received response 'textDocument/codeAction - (77)' in 60ms.
+[Trace - 15:44:28] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:28] Received request 'workspace/semanticTokens/refresh - (56)'.
+[Trace - 15:44:28] Sending response 'workspace/semanticTokens/refresh - (56)'. Processing request took 0ms
+[Trace - 15:44:28] Received request 'workspace/semanticTokens/refresh - (57)'.
+[Trace - 15:44:28] Sending response 'workspace/semanticTokens/refresh - (57)'. Processing request took 0ms
+[Trace - 15:44:29] Sending request 'textDocument/codeAction - (78)'.
+[Trace - 15:44:29] Received response 'textDocument/codeAction - (78)' in 51ms.
+[Trace - 15:44:32] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:32] Sending request 'vue/autoInsert - (79)'.
+[Trace - 15:44:33] Sending request 'textDocument/codeAction - (80)'.
+[Trace - 15:44:33] Sending request 'textDocument/semanticTokens/range - (81)'.
+[Trace - 15:44:34] Sending request 'textDocument/inlayHint - (82)'.
+[Trace - 15:44:34] Received request 'vue/docVersion - (58)'.
+[Trace - 15:44:34] Sending response 'vue/docVersion - (58)'. Processing request took 0ms
+[Trace - 15:44:34] Received response 'vue/autoInsert - (79)' in 1190ms.
+[Trace - 15:44:34] Sending request 'textDocument/codeLens - (83)'.
+[Trace - 15:44:34] Received response 'textDocument/codeAction - (80)' in 1834ms.
+[Trace - 15:44:34] Received response 'textDocument/semanticTokens/range - (81)' in 1593ms.
+[Trace - 15:44:34] Received response 'textDocument/inlayHint - (82)' in 858ms.
+[Trace - 15:44:34] Received request 'vue/docVersion - (59)'.
+[Trace - 15:44:34] Sending response 'vue/docVersion - (59)'. Processing request took 0ms
+[Trace - 15:44:34] Received response 'textDocument/codeLens - (83)' in 421ms.
+[Trace - 15:44:34] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:34] Received request 'vue/docVersion - (60)'.
+[Trace - 15:44:34] Sending response 'vue/docVersion - (60)'. Processing request took 0ms
+[Trace - 15:44:34] Received request 'vue/docVersion - (61)'.
+[Trace - 15:44:34] Sending response 'vue/docVersion - (61)'. Processing request took 0ms
+[Trace - 15:44:34] Received request 'vue/docVersion - (62)'.
+[Trace - 15:44:34] Sending response 'vue/docVersion - (62)'. Processing request took 0ms
+[Trace - 15:44:34] Received request 'vue/docVersion - (63)'.
+[Trace - 15:44:34] Sending response 'vue/docVersion - (63)'. Processing request took 0ms
+[Trace - 15:44:35] Sending request 'textDocument/codeAction - (84)'.
+[Trace - 15:44:35] Received request 'vue/docVersion - (64)'.
+[Trace - 15:44:35] Sending response 'vue/docVersion - (64)'. Processing request took 0ms
+[Trace - 15:44:35] Received response 'textDocument/codeAction - (84)' in 356ms.
+[Trace - 15:44:35] Received request 'vue/docVersion - (65)'.
+[Trace - 15:44:35] Sending response 'vue/docVersion - (65)'. Processing request took 0ms
+[Trace - 15:44:35] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:35] Received request 'vue/docVersion - (66)'.
+[Trace - 15:44:35] Sending response 'vue/docVersion - (66)'. Processing request took 0ms
+[Trace - 15:44:35] Received request 'vue/docVersion - (67)'.
+[Trace - 15:44:35] Sending response 'vue/docVersion - (67)'. Processing request took 0ms
+[Trace - 15:44:35] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:35] Received request 'vue/docVersion - (68)'.
+[Trace - 15:44:35] Sending response 'vue/docVersion - (68)'. Processing request took 0ms
+[Trace - 15:44:35] Received request 'vue/docVersion - (69)'.
+[Trace - 15:44:35] Sending response 'vue/docVersion - (69)'. Processing request took 0ms
+[Trace - 15:44:35] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:35] Sending request 'textDocument/codeAction - (85)'.
+[Trace - 15:44:35] Received response 'textDocument/codeAction - (85)' in 55ms.
+[Trace - 15:44:36] Sending request 'textDocument/documentLink - (86)'.
+[Trace - 15:44:36] Received response 'textDocument/documentLink - (86)' in 5ms.
+[Trace - 15:44:37] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:37] Sending request 'vue/autoInsert - (87)'.
+[Trace - 15:44:38] Sending request 'textDocument/semanticTokens/range - (88)'.
+[Trace - 15:44:38] Sending notification '$/cancelRequest'.
+[Trace - 15:44:38] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:38] Sending request 'textDocument/completion - (89)'.
+[Trace - 15:44:38] Sending request 'vue/autoInsert - (90)'.
+[Trace - 15:44:38] Sending request 'textDocument/codeAction - (91)'.
+[Trace - 15:44:38] Sending request 'textDocument/semanticTokens/range - (92)'.
+[Trace - 15:44:38] Received request 'vue/docVersion - (70)'.
+[Trace - 15:44:38] Sending response 'vue/docVersion - (70)'. Processing request took 0ms
+[Trace - 15:44:38] Received response 'vue/autoInsert - (87)' in 1159ms.
+[Trace - 15:44:38] Received response 'textDocument/semanticTokens/range - (88)' in 782ms.
+[Trace - 15:44:39] Sending request 'textDocument/inlayHint - (93)'.
+[Trace - 15:44:39] Sending notification '$/cancelRequest'.
+[Trace - 15:44:39] Sending notification '$/cancelRequest'.
+[Trace - 15:44:39] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:39] Sending request 'vue/autoInsert - (94)'.
+[Trace - 15:44:39] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:39] Sending request 'vue/autoInsert - (95)'.
+[Trace - 15:44:39] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:40] Sending request 'vue/autoInsert - (96)'.
+[Trace - 15:44:40] Sending request 'textDocument/codeAction - (97)'.
+[Trace - 15:44:40] Sending notification '$/cancelRequest'.
+[Trace - 15:44:40] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:40] Sending request 'vue/autoInsert - (98)'.
+[Trace - 15:44:40] Sending request 'textDocument/codeAction - (99)'.
+[Trace - 15:44:40] Sending request 'textDocument/semanticTokens/range - (100)'.
+[Trace - 15:44:40] Received response 'textDocument/completion - (89)' in 2635ms.
+[Trace - 15:44:40] Received request 'vue/docVersion - (71)'.
+[Trace - 15:44:40] Sending response 'vue/docVersion - (71)'. Processing request took 0ms
+[Trace - 15:44:40] Received response 'vue/autoInsert - (90)' in 2585ms.
+[Trace - 15:44:40] Received response 'textDocument/codeAction - (91)' in 2470ms.
+[Trace - 15:44:40] Received response 'textDocument/semanticTokens/range - (92)' in 2223ms.
+[Trace - 15:44:41] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:41] Received response 'textDocument/inlayHint - (93)' in 1521ms.
+[Trace - 15:44:41] Sending request 'completionItem/resolve - (101)'.
+[Trace - 15:44:41] Sending notification '$/cancelRequest'.
+[Trace - 15:44:41] Sending request 'textDocument/codeAction - (102)'.
+[Trace - 15:44:41] Sending request 'textDocument/inlayHint - (103)'.
+[Trace - 15:44:41] Sending request 'textDocument/codeLens - (104)'.
+[Trace - 15:44:42] Received response 'vue/autoInsert - (94)' in 2395ms.
+[Trace - 15:44:42] Received request 'vue/docVersion - (72)'.
+[Trace - 15:44:42] Sending response 'vue/docVersion - (72)'. Processing request took 0ms
+[Trace - 15:44:42] Sending notification '$/cancelRequest'.
+[Trace - 15:44:42] Sending notification '$/cancelRequest'.
+[Trace - 15:44:42] Sending notification '$/cancelRequest'.
+[Trace - 15:44:42] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:42] Sending request 'vue/autoInsert - (105)'.
+[Trace - 15:44:42] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:42] Sending request 'textDocument/completion - (106)'.
+[Trace - 15:44:42] Sending request 'vue/autoInsert - (107)'.
+[Trace - 15:44:42] Sending request 'textDocument/semanticTokens/range - (108)'.
+[Trace - 15:44:43] Received response 'vue/autoInsert - (95)' in 3403ms.
+[Trace - 15:44:43] Received request 'vue/docVersion - (73)'.
+[Trace - 15:44:43] Sending response 'vue/docVersion - (73)'. Processing request took 0ms
+[Trace - 15:44:43] Sending notification '$/cancelRequest'.
+[Trace - 15:44:43] Sending request 'textDocument/inlayHint - (109)'.
+[Trace - 15:44:43] Sending notification '$/cancelRequest'.
+[Trace - 15:44:43] Sending request 'textDocument/codeLens - (110)'.
+[Trace - 15:44:43] Sending notification '$/cancelRequest'.
+[Trace - 15:44:44] Sending request 'textDocument/codeAction - (111)'.
+[Trace - 15:44:44] Sending notification '$/cancelRequest'.
+[Trace - 15:44:44] Sending notification '$/cancelRequest'.
+[Trace - 15:44:44] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:44] Sending request 'vue/autoInsert - (112)'.
+[Trace - 15:44:44] Received response 'vue/autoInsert - (96)' in 4352ms.
+[Trace - 15:44:44] Received request 'vue/docVersion - (74)'.
+[Trace - 15:44:44] Sending response 'vue/docVersion - (74)'. Processing request took 0ms
+[Trace - 15:44:44] Received response 'textDocument/codeAction - (97)' in 4426ms.
+[Trace - 15:44:44] Sending notification 'textDocument/didChange'.
+[Trace - 15:44:44] Sending request 'vue/autoInsert - (113)'.
+[Trace - 15:44:44] Sending request 'textDocument/codeAction - (114)'.
+[Trace - 15:44:45] Sending request 'textDocument/semanticTokens/range - (115)'.
+[Trace - 15:44:45] Sending notification 'textDocument/didSave'.
+[Trace - 15:44:45] Sending request 'textDocument/inlayHint - (116)'.
+[Trace - 15:44:46] Received response 'vue/autoInsert - (98)' in 5597ms.
+[Trace - 15:44:46] Received request 'vue/docVersion - (75)'.
+[Trace - 15:44:46] Sending response 'vue/docVersion - (75)'. Processing request took 0ms
+[Trace - 15:44:46] Sending notification 'workspace/didChangeWatchedFiles'.
+[Trace - 15:44:46] Received response 'textDocument/codeAction - (99)' in 5687ms.
+[Trace - 15:44:46] Received response 'textDocument/semanticTokens/range - (100)' in 5435ms.
+[Trace - 15:44:46] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:46] Received request 'vue/activeSelection - (76)'.
+[Trace - 15:44:46] Sending response 'vue/activeSelection - (76)'. Processing request took 0ms
+[Trace - 15:44:46] Received response 'textDocument/codeAction - (102)' in 4861ms.
+[Trace - 15:44:46] Received response 'textDocument/inlayHint - (103)' in 4703ms.
+[Trace - 15:44:46] Received response 'textDocument/codeLens - (104)' in 4515ms.
+[Trace - 15:44:46] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:46] Sending notification '$/cancelRequest'.
+[Trace - 15:44:46] Sending request 'textDocument/codeAction - (117)'.
+[Trace - 15:44:47] Sending notification '$/cancelRequest'.
+[Trace - 15:44:47] Sending request 'textDocument/codeLens - (118)'.
+[Trace - 15:44:47] Received response 'vue/autoInsert - (105)' in 5305ms.
+[Trace - 15:44:47] Received request 'vue/docVersion - (77)'.
+[Trace - 15:44:47] Sending response 'vue/docVersion - (77)'. Processing request took 0ms
+[Trace - 15:44:48] Sending request 'textDocument/documentLink - (119)'.
+[Trace - 15:44:48] Received response 'textDocument/completion - (106)' in 6598ms.
+[Trace - 15:44:48] Received request 'vue/docVersion - (78)'.
+[Trace - 15:44:48] Sending response 'vue/docVersion - (78)'. Processing request took 0ms
+[Trace - 15:44:48] Received response 'vue/autoInsert - (107)' in 6487ms.
+[Trace - 15:44:48] Received response 'textDocument/semanticTokens/range - (108)' in 6097ms.
+[Trace - 15:44:48] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:48] Received response 'textDocument/inlayHint - (109)' in 5362ms.
+[Trace - 15:44:48] Received response 'textDocument/codeLens - (110)' in 5172ms.
+[Trace - 15:44:49] Sending notification '$/cancelRequest'.
+[Trace - 15:44:49] Sending request 'textDocument/codeAction - (120)'.
+[Trace - 15:44:49] Received response 'textDocument/codeAction - (111)' in 5125ms.
+[Trace - 15:44:50] Received response 'vue/autoInsert - (112)' in 6003ms.
+[Trace - 15:44:50] Received request 'vue/docVersion - (79)'.
+[Trace - 15:44:50] Sending response 'vue/docVersion - (79)'. Processing request took 0ms
+[Trace - 15:44:50] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:50] Sending notification '$/cancelRequest'.
+[Trace - 15:44:50] Sending request 'textDocument/codeAction - (121)'.
+[Trace - 15:44:51] Received response 'vue/autoInsert - (113)' in 6747ms.
+[Trace - 15:44:51] Received request 'vue/docVersion - (80)'.
+[Trace - 15:44:51] Sending response 'vue/docVersion - (80)'. Processing request took 0ms
+[Trace - 15:44:51] Received response 'textDocument/codeAction - (114)' in 6841ms.
+[Trace - 15:44:51] Received response 'textDocument/semanticTokens/range - (115)' in 6100ms.
+[Trace - 15:44:51] Received response 'textDocument/inlayHint - (116)' in 5914ms.
+[Trace - 15:44:51] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:52] Sending notification '$/cancelRequest'.
+[Trace - 15:44:52] Sending request 'textDocument/codeAction - (122)'.
+[Trace - 15:44:52] Received response 'completionItem/resolve - (101)' in 11795ms.
+[Trace - 15:44:52] Received request 'vue/docVersion - (81)'.
+[Trace - 15:44:52] Sending response 'vue/docVersion - (81)'. Processing request took 0ms
+[Trace - 15:44:52] Received response 'textDocument/codeAction - (117)' in 6407ms.
+[Trace - 15:44:52] Received response 'textDocument/codeLens - (118)' in 5698ms.
+[Trace - 15:44:52] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:52] Received response 'textDocument/documentLink - (119)' in 4285ms.
+[Trace - 15:44:52] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:52] Received response 'textDocument/codeAction - (120)' in 3720ms.
+[Trace - 15:44:52] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:52] Received response 'textDocument/codeAction - (121)' in 2304ms.
+[Trace - 15:44:52] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:52] Received response 'textDocument/codeAction - (122)' in 881ms.
+[Trace - 15:44:52] Received request 'vue/docVersion - (82)'.
+[Trace - 15:44:52] Sending response 'vue/docVersion - (82)'. Processing request took 0ms
+[Trace - 15:44:52] Received request 'vue/docVersion - (83)'.
+[Trace - 15:44:52] Sending response 'vue/docVersion - (83)'. Processing request took 0ms
+[Trace - 15:44:52] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:52] Received request 'vue/docVersion - (84)'.
+[Trace - 15:44:52] Sending response 'vue/docVersion - (84)'. Processing request took 0ms
+[Trace - 15:44:52] Received request 'vue/docVersion - (85)'.
+[Trace - 15:44:52] Sending response 'vue/docVersion - (85)'. Processing request took 0ms
+[Trace - 15:44:52] Received request 'vue/docVersion - (86)'.
+[Trace - 15:44:52] Sending response 'vue/docVersion - (86)'. Processing request took 0ms
+[Trace - 15:44:52] Received request 'vue/docVersion - (87)'.
+[Trace - 15:44:52] Sending response 'vue/docVersion - (87)'. Processing request took 0ms
+[Trace - 15:44:53] Sending request 'textDocument/codeAction - (123)'.
+[Trace - 15:44:53] Received request 'vue/docVersion - (88)'.
+[Trace - 15:44:53] Sending response 'vue/docVersion - (88)'. Processing request took 0ms
+[Trace - 15:44:53] Received response 'textDocument/codeAction - (123)' in 46ms.
+[Trace - 15:44:53] Received request 'vue/docVersion - (89)'.
+[Trace - 15:44:53] Sending response 'vue/docVersion - (89)'. Processing request took 0ms
+[Trace - 15:44:53] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:53] Received request 'vue/docVersion - (90)'.
+[Trace - 15:44:53] Sending response 'vue/docVersion - (90)'. Processing request took 0ms
+[Trace - 15:44:53] Received request 'vue/docVersion - (91)'.
+[Trace - 15:44:53] Sending response 'vue/docVersion - (91)'. Processing request took 0ms
+[Trace - 15:44:53] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:53] Received request 'vue/docVersion - (92)'.
+[Trace - 15:44:53] Sending response 'vue/docVersion - (92)'. Processing request took 0ms
+[Trace - 15:44:53] Received notification 'textDocument/publishDiagnostics'.
+[Trace - 15:44:53] Received request 'workspace/semanticTokens/refresh - (93)'.
+[Trace - 15:44:53] Sending response 'workspace/semanticTokens/refresh - (93)'. Processing request took 1ms
+[Trace - 15:44:53] Received request 'workspace/semanticTokens/refresh - (94)'.
+[Trace - 15:44:53] Sending response 'workspace/semanticTokens/refresh - (94)'. Processing request took 0ms
+[Trace - 15:44:54] Sending request 'textDocument/codeAction - (124)'.
+[Trace - 15:44:54] Received response 'textDocument/codeAction - (124)' in 3ms.
